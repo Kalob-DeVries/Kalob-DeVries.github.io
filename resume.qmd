@@ -5,7 +5,6 @@ title: Kalob DeVries Resume
 # Kalob DeVries
 Business Analytics & Finance 
 
-<div id="webaddress">
 <a href="kalob.devries@gmail.com">kalob.devries@gmail.com</a>
 | <a href="kalob.devries@gmail.com">My wikipedia page</a>
 </div>

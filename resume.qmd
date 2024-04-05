@@ -6,8 +6,8 @@ title: Kalob DeVries Resume
 Business Analytics & Finance 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kalob.devries@gmail.com">kalob.devries@gmail.com</a>
+| <a href="kalob.devries@gmail.com">My wikipedia page</a>
 </div>
 
 
@@ -29,14 +29,6 @@ Pyschology, economics, finance,
 
 `2021-2024`
 __Brigham Young University Idaho, Idaho.__
-
-
-
-
-
-
-
-
 
 
 
